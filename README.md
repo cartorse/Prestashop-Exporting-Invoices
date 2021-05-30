@@ -1,6 +1,6 @@
 # [PRESTASHOP] PDF Invoices Exporting
 
-Free Prestashop module to download PDF invoices. In this module you can export your store invoices filling a simple form.
+Prestashop module to download PDF invoices. In this module you can export your store invoices filling a simple form.
 
 You can choose the export type based on:
 
@@ -9,7 +9,7 @@ You can choose the export type based on:
 
 ## Instalation
 
-Upload the **exportinginvoices** folder into modudles folder on your webpage server.
+Upload the **exportinginvoices** folder into modules folder on your webpage server.
 
 ## Compatible
 
